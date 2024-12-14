@@ -2,7 +2,7 @@
 
 
 Dickinson Men's Basketball 
-![Dickinson Athletics logo](/Users/derek/Downloads/dickinsonathleticsimage.jpeg)
+![Dickinson Athletics logo](dickinsonathleticsimage.jpeg)
 -> Season and play-by-play analysis
 
 | Data File Name  | Data.Files | Location | Provided | Citation |
