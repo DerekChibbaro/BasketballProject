@@ -2,7 +2,7 @@
 
 
 ## Dickinson Men's Basketball
-### Season and play-by-play analysis
+Season and play-by-play analysis
 
 
 
