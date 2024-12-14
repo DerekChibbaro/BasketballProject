@@ -1,7 +1,7 @@
 # BasketballProject
 
 
-Dickinson Men's Basketball <br> Season and play-by-play analysis
+Dickinson Men's Basketball Season and play-by-play analysis <br>
 ![Dickinson Athletics logo](dickinsonathleticsimage.jpeg) <br>
 
 | Data File Name  | Data.Files | Location | Provided | Citation |
