@@ -4,9 +4,14 @@
 Dickinson Men's Basketball: Season and play-by-play analysis <br>
 ![Dickinson Athletics logo](dickinsonathleticsimage.jpeg) <br>
 
-## Introduction
+## Introduction/Research Questions
 We were given access to the Dickinson College Men’s Basketball account with Synergy Sports. Synergy Sports is where all season and play-by-play data is stored in their own API for most NCAA basketball games.​<br>
 With this, we were able to access *event level*, *game level*, and *season level* data. <br>
+
+Areas of interest:
+- How do offensive and defensive basketball statistics influence the accuracy of predicting the Points per Possession (PPP) rating and ratio?
+- Are game-level statistics (fouls, points, etc.) significantly related offensive/defensive success?
+- Does the winning percentage significantly change when considering event-level characteristics?
 
 
 ## Data Retrieval
