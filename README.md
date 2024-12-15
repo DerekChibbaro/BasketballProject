@@ -18,12 +18,17 @@ The process to get the data out of the website varied based on the type of data.
 | “Seasondata” | seasondata.csv | <a href="seasondata copy.csv">Download Season Data CSV File</a> |
 | “All games” | all_games.csv | <a href="all_games copy.csv">Download All Games CSV File</a> |
 
+
+
+## Processing the Data
 Season-level data:​
 - Years 2015 through 2023, excluding 2020 (minimal data available)​ <br>
 - Created merged_offense and merged_defense dataframes to analyze separately, year column added​ <br>
 - Seasondata combines both merged datasets and creates an ID to identify offense or defense <br>
 
-## Processing the Data
-
+Play-by-play (event) data:​
+- 27 games from the 2023-24 season​ <br>
+- Includes away/home teams, score, event level description, date, offensive/defensive players on the court during each event <br>
+Once the event level data was into Python in a workable state, we created dummy variables indicating what type of event occurred in each row. The variables included timeout, shot, assist, block, rebound, steal, and foul.  
 
 
