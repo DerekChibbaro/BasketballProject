@@ -34,6 +34,13 @@ Season-level data:​
 Play-by-play (event) data:​
 - 27 games from the 2023-24 season​ <br>
 - Includes away/home teams, score, event level description, date, offensive/defensive players on the court during each event <br>
-Once the event level data was into Python in a workable state, we created dummy variables indicating what type of event occurred in each row. The variables included timeout, shot, assist, block, rebound, steal, and foul.  
+Once the event level data was into Python in a workable state, we created dummy variables indicating what type of event occurred in each row. The variables included timeout, shot, assist, block, rebound, steal, and foul.
+
+## Preliminary Analysis
+![PPP Rating EDA](PPPRatingbyYear.jpeg)
+
+## Model Specification
+
+and then that should be it, right?
 
 
