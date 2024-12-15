@@ -37,7 +37,7 @@ Play-by-play (event) data:​
 Once the event level data was into Python in a workable state, we created dummy variables indicating what type of event occurred in each row. The variables included timeout, shot, assist, block, rebound, steal, and foul.
 
 ## Preliminary Analysis
-![PPP Rating EDA](PPPRatingbyYear.jpeg)
+![PPP Rating EDA](PPPRatingbyYear.jpeg=100x20)
 
 ## Model Specification
 
