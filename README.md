@@ -46,7 +46,8 @@ We aim to analyze the significance of certain season metrics to predict their im
 To do this, we conducted a variety of regression analyses: OLS regression with variety of control variables, separating regressions by offense and defense, and using interaction terms to determine the relationship between variables changing with one another. <br>
 <br>
 Game-level data: <br>
-INSERT STUFF HERE
+Our goal is to analyze the games of the 2023-24 season and estimate which factors are most impactful for a win.​ <br>
+> Number of fouls/rebounds for Dickinson and opponent, home/away game
 
 - We aim to predict the PPP ratios for certain seasons while accounting for Attribute (Transition, Zone defense, last 4 sec on shot clock, etc.) and other offensive/defensive variables​
 
