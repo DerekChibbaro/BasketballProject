@@ -41,6 +41,17 @@ Once the event level data was into Python in a workable state, we created dummy 
 
 ## Model Specification
 
-and then that should be it, right?
+***Season-level data:***​ <br>
+We aim to analyze the significance of certain season metrics to predict their impact on the PPP value.​ <br>
+To do this, we conducted a variety of regression analyses: OLS regression with variety of control variables, separating regressions by offense and defense, and using interaction terms to determine the relationship between variables changing with one another. <br>
+<br>
+Game-level data: <br>
+INSERT STUFF HERE
+
+- We aim to predict the PPP ratios for certain seasons while accounting for Attribute (Transition, Zone defense, last 4 sec on shot clock, etc.) and other offensive/defensive variables​
+
+- Regression analysis using in-game statistics value to predict PPP ratios.
+
+
 
 
