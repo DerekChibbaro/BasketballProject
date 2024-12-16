@@ -1,4 +1,4 @@
-# BasketballProject
+# Dickinson Men's Basketball Project - Data400
 
 
 Dickinson Men's Basketball: Season and play-by-play analysis <br>
@@ -41,7 +41,7 @@ Once the event level data was into Python in a workable state, we created dummy 
 
 ## Model Specification
 
-***Season-level data:***​ <br>
+Season-level data:​ <br>
 We aim to analyze the significance of certain season metrics to predict their impact on the PPP value.​ <br>
 To do this, we conducted a variety of regression analyses: OLS regression with variety of control variables, separating regressions by offense and defense, and using interaction terms to determine the relationship between variables changing with one another. <br>
 <br>
